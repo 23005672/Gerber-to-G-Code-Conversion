@@ -18,7 +18,7 @@ Copper CAM
 12. Go to machine/mill and select engraving you will get the g code,similarly for Drill and cut. </br>
 13. Save the G code</br>
 # Contours Output
-![Screenshot 2024-05-13 143850](https://github.com/23005672/Gerber-to-G-Code-Conversion/assets/138971519/642f716b-f336-42db-8876-4c77b3e7d1e8)
+![Screenshot 2024-05-13 143850](https://github.com/23005672/Gerber-to-G-Code-Conversion/assets/138971519/37f1a4cc-167d-4d71-ae25-a31c8a627c38)
 
 # G Code
 ### Engraving G Code
